@@ -3,7 +3,7 @@ Simply python script to translate srt subtitles with google translate api.
 
 require 'pip install googletrans==4.0.0rc1'
 
-Input file must bee encoedt via utf8. Can by converted by notepad ++.
+Input file must be encoded via utf8. Can by converted by notepad ++.
 
 ./t_srt.py file.srt source_language(example en=english) destiny_language(example jp=japan)
 
